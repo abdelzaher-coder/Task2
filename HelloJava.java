@@ -1,0 +1,1 @@
+-e "class HelloJava {\n    void printHelloWORLD() {\n        System.out.println(\"Hello WORLD\");\n    }\n\n    void printHelloITI() {\n        System.out.println(\"Hello ITI\");\n    }\n\n    void printHelloGit() {\n        System.out.println(\"Hello Git\");\n    }\n}" 
